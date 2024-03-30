@@ -22,6 +22,7 @@ This Dotnet API project was developed as a learning exercise to build RESTful AP
 - **Database Operations:**
   - MS SQL Server used for database management.
   - Includes stored procedures for efficient database operations.
+  - Used Dynamic Parameters to prevent from SQL Injection. 
 
 ## Prerequisites
 
