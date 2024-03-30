@@ -1,4 +1,4 @@
-# Dotnet API Project README
+# Dotnet API Project
 
 This Dotnet API project was developed as a learning exercise to build RESTful APIs using the Dotnet framework. It utilizes MS SQL Server for database management, implements stored procedures for database operations, and includes an authentication controller along with an authentication helper class for password hashing, salting, and token creation. The API features a Posts controller where employees can post titles and content, and it includes a keyword search functionality. The project also incorporates the use of a mapper for data manipulation.
 
